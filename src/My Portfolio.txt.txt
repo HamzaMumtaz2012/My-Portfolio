@@ -1,0 +1,26 @@
+🟩 Skills Section (Cards Content)
+HTML
+
+I build clean and well-structured web pages using semantic HTML for better readability and SEO.
+
+CSS
+
+I design responsive and modern layouts using Flexbox, Grid, and smooth animations.
+
+JavaScript
+
+I add interactivity to websites using JavaScript, including DOM manipulation and basic logic.
+
+React
+
+I build dynamic user interfaces using React components and manage data efficiently.
+
+
+🟨 Testimonials Section (Proper Content)
+Testimonial 1
+
+Hamza is a dedicated and consistent learner who is actively improving his skills in frontend development. He focuses on writing clean code and understanding the basics properly instead of rushing things. I have seen him work on multiple small projects, and his progress over time shows his commitment to becoming a better developer. With this mindset, he has strong potential to grow and handle real-world projects in the future.
+
+Testimonial 2
+
+Hamza has a strong interest in building modern and responsive websites. He spends time practicing HTML, CSS, and JavaScript and is not afraid to experiment with new ideas while learning. What stands out is his willingness to fix mistakes and improve his work step by step. He is still in the learning phase, but his consistency and effort make him someone who can develop solid frontend skills with time.
