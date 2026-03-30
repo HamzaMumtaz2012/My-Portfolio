@@ -50,7 +50,12 @@ function App() {
             ></lord-icon>
           </h1>
           <hr width="65%" />
-          <p>Frontend Developer (HTML, CSS, JS, React) </p>
+          <p>
+            Frontend Developer ( <span style={{ color: 'orange', fontWeight: '900' }}>HTML</span> ,{' '}
+            <span style={{ color: 'cyan', fontWeight: '900' }}>CSS</span> ,{' '}
+            <span style={{ color: 'yellow', fontWeight: '900' }}>JS</span> ,{' '}
+            <span style={{ color: 'lightblue', fontWeight: '900' }}>React</span>){' '}
+          </p>
           <div className="buttons">
             <div id="button-1">
               <button className="button-1">
@@ -195,7 +200,6 @@ function App() {
               fontWeight: 'bold',
               cursor: 'pointer',
             }}
-
           >
             Send Message
           </button>

@@ -36,7 +36,7 @@ const Footer = () => {
               trigger="hover"
               style={{ width: '55px', height: '52px', margin: '13px 0px' }}
             ></lord-icon>
-            <h3>youtube</h3>
+            <h3>linked In</h3>
           </div>
         </div>
       </div>
